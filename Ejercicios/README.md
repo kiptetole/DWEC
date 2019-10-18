@@ -1,3 +1,3 @@
-#Ejercicios
+Ejercicios
 
-*Tres en Raya en java Script
+Tres en Raya en java Script
